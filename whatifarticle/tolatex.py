@@ -13,36 +13,62 @@ class ToLatex(HTMLParser):
         text = data.strip()
         if len(text) > 0:
             text = sub('[ \t\r\n]+', ' ', text)
-            self.text.append(text)
+            if len(self.text) > 1 and self.text[-2] == "":
+                self.text[-2] = text.replace('%', '\\%')
+                return
+            self.text.append(text.replace('%', '\\%'))
+
+    def appendbrace(self, string):
+        if len(self.text) > 2 and self.text[-2] == '':
+            self.text[-3] += string
+            self.text[-1] += "}"
+        else:
+            self.text.append(string)
+            self.text.append('')
+            self.text.append('}')
 
     def handle_starttag(self, tag, attrs):
+        d = dict(attrs)
         if tag == 'p':
             self.text.append('\n')
-            d = dict(attrs)
             if 'id' in d.keys():
                 if d['id'] == 'question':
-                    self.text.append('\\question\n')
+                    self.appendbrace('\\question{')
                 if d['id'] == 'attribute':
-                    self.text.append('\\attribute\n')
+                    self.appendbrace('\\attribute{')
         if tag == 'br':
             self.text.append('\n')
+        if tag == 'em':
+            self.appendbrace(' \\emph{')
         if tag == 'h1':
-            self.text.append('\n\\chapter{')
+            self.appendbrace('\n\\chapter{')
         if tag == 'img':
-            d = dict(attrs)
             self.text.append('\n\\begin{{figure}}\n\\caption{{{0}}}\n\\centering\n\\includegraphics{{{1}}}\n\\end{{figure}}\n'.format(d['title'], d['src'][1:]))
+        if tag == 'a':
+            if len(self.text) < 3:
+                return
+            link = d['href'].replace('%','\\%')
+            self.appendbrace(' \\href{' + link + '}{')
+        if tag == 'span':
+            if d['class'] == 'refnum':
+                self.text.append("__del__")
+            if d['class'] == 'refbody':
+                self.appendbrace(' \\footnote{')
 
     def handle_startendtag(self, tag, attrs):
         if tag == 'img':
             d = dict(attrs)
             self.text.append('\n\\begin{{figure}}\n\\caption{{{0}}}\n\\centering\n\\includegraphics{{{1}}}\n\\end{{figure}}\n'.format(d['title'], d['src'][1:]))
         
-
     def handle_endtag(self, tag):
         if tag == 'h1':
-            self.text.append('}\n')
+            self.text.append('\n')
         if tag == 'p':
             self.text.append('\n')
+        if tag == 'span':
+            if self.text[-2] == '__del__':
+                self.text.pop()
+                self.text.pop()
 
     def totext(self):
         return ''.join(self.text).strip()
@@ -66,4 +92,4 @@ def main(filename):
 if __name__=="__main__":
     import sys
     text = main(sys.argv[1])
-    print text
+    print text.encode('utf-8')
