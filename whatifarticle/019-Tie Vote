@@ -1,0 +1,115 @@
+<article class="entry">
+  <a href="//what-if.xkcd.com/19/"><h1>Tie Vote</h1></a>
+  <p id="question">What if there's LITERALLY a tie?</p>
+<p id="attribute">—Nate Silver (<a href="https://twitter.com/fivethirtyeight/status/154434288287363072">Twitter, January 4th, 2012</a>)</p>
+<p>In most states, a popular vote tie is broken by a coin toss or drawing
+names from a hat. The odds of a many-state tie are slimmer than the odds
+of the hat being hit by a bale of cocaine dumped from a drug-smuggling
+airplane.</p>
+<p>Nate Silver flippantly posted his 'tie' question on Twitter during the
+tallying of the extremely close 2012 Republican Iowa Caucus results. In
+that case, an exact tie was averted—Santorum ended up winning by 34
+votes out of 121,503. And since it was a non-binding nominating vote,
+the Iowa Republican Party could handle a tie any way they wanted.</p>
+<p>But since it’s Election Day, let’s apply his question to the current
+contest. What <em>will</em> happen if there's a tie?</p>
+<p>I don't mean an electoral college tie. There’s probably about a 1 in 500
+chance of one of those this year, and the consequences are <a href="http://blog.constitutioncenter.org/2012/11/an-electoral-college-tie-explained/">thoroughly
+explored</a>.
+Instead, the question concerns both candidates getting the same number
+of votes in a state.</p>
+<p>Several researchers—including <a href="http://www.stat.columbia.edu/~gelman/research/published/probdecisive2.pdf">Silver
+himself</a>—have
+calculated the odds of a state winner being decided by a single vote,
+which is effectively the same as the probability of a tie vote. For
+typical close states, the linked article calculates the probabilities to
+be in the neighborhood of 1 in 100,000—which makes intuitive sense,
+since 100,000 is the sort of vote margin by which swing state elections
+are typically decided.</p>
+<p>So what if there's a tie in a close state this year?</p>
+<img class="illustration" title="a map showing florida tied and all other states going as nate silver currently projects" src="/imgs/a/19/tie_map.png">
+<p>For that matter, what if there’s a tie in <em>every</em> battleground state?</p>
+<img class="illustration" title="a map showing all battleground states tied" src="/imgs/a/19/tie_map_all.png">
+<p>Well, for starters, recounts happen. But since recounts happen in close
+elections in general, these are just as likely to create ties as to
+break them. They don’t change the underlying probability. So let’s
+assume that after all recounts, there’s a tie. What then?</p>
+<p>The short answer is that it’s up to the state’s laws.</p>
+<p>I went through the general laws of nine competitive states to see how
+they handle popular vote ties. In most of them, the tie is broken by
+“drawing lots”—that is, randomly. (If you’re curious, here are links to
+some tie vote laws in each state:
+<a href="http://leg1.state.va.us/cgi-bin/legp504.exe?000+cod+24.2-674">Virginia</a>,
+<a href="http://law.onecle.com/north-carolina/163-elections-and-election-laws/163-182.8.html">North
+Carolina</a>,
+<a href="http://election.dos.state.fl.us/publications/pdf/2012/2012_Election_Laws.pdf">Florida</a>,
+<a href="http://codes.ohio.gov/orc/3505.33">Ohio</a>, <a href="http://www.gencourt.state.nh.us/rsa/html/lxiii/667/667-17.htm">New
+Hampshire</a>,
+<a href="http://docs.legis.wi.gov/statutes/statutes/5/I/01">Wisconsin</a>,
+<a href="http://www.state.co.us/gov_dir/leg_dir/olls/sl1999/sl_154.htm">Colorado</a>,
+<a href="http://search.legis.state.ia.us/nxt/gateway.dll/ic/1/13/2174/2175/2582/2629?f=templates%24fn=document-frameset.htm%24q=%5Bfield%2050.44%5D%24x=Advanced">Iowa</a>,
+<a href="http://www.leg.state.nv.us/NRS/NRS-293.html#NRS293Sec400">Nevada</a>).</p>
+<img class="illustration" title="a secretary of state flips a coin" src="/imgs/a/19/tie_coin_toss.png">
+<p>“Drawing lots” can mean a coin toss, drawing straws, or picking a name
+from a hat. Most states leave the details up to the Secretary of State
+or an electoral board, although Iowa Code 50.44 specifies that the names
+be written on pieces of paper and placed in a “receptacle”. In North
+Carolina, however, a tie vote (when more than 5,000 votes are cast)
+results in a new election. (Which could potentially <em>itself</em> result in a
+tie ...)</p>
+<p>But let’s imagine that there’s not just one state that’s tied—instead,
+the <em>nine</em> most competitive states are tied (and the rest go as
+expected). If North Carolina held a runoff to break the tie, and the
+other eight states flipped coins (or picked from Iowa’s receptacle),
+Obama would be reelected in <a href="http://www.nytimes.com/interactive/2012/11/02/us/politics/paths-to-the-white-house.html">431 out of 512
+cases</a>—about
+84% of the time.</p>
+<p>But how likely is a nine-state tie?</p>
+<p>If we ballpark the odds of a tie vote in each close state at 1 in
+100,000, then the odds of a tie vote in all nine states is in the
+neighborhood of one in a quattuordecillion—1 followed by 45 zeroes.
+(This ignores vote correlation between states, but it’s good enough for
+a first-order estimate).</p>
+<p>Florida is hit by an average of <a href="http://www1.ncdc.noaa.gov/pub/data/cmb/images/tornado/clim/ann-avg-torn1991-2010.gif">66 tornadoes per
+year</a>.
+If each tornado is 50 yards wide and has a path 1.5 miles long (which is
+<a href="http://www.crh.noaa.gov/lmk/soo/docu/tornado_faq.php">typical</a>, if not
+necessarily the mean), we can calculate that a typical location in
+Florida experiences an average 1.4 picotornados per second:</p>
+<p>\[66\tfrac{\text{tornadoes}}{\text{year}}\times\frac{1.5\text{
+miles}\times50\text{ yards}}{\text{Area of
+Florida}}\approx1.4\times10^{-12}\tfrac{\text{tornadoes}}{\text{second}}\]</p>
+<p>Astronomer Alan Harris calculates that a person’s lifetime odds of death
+from a comet or meteorite impact are about 1 in 700,000. If a typical
+person in the calculation lives 70 years, this suggests a Florida
+resident suffers an average of 0.64 femtodeaths per second from
+meteorite impacts:</p>
+<p>\[\frac{\tfrac{1}{700,000}\text{deaths}}{70\text{
+years}}\approx6.4\times10^{-16}\tfrac{\text{deaths}}{\text{second}}\]</p>
+<p>In 1994, drug smugglers fleeing the authorities dropped an estimated 20
+bales of cocaine from an airplane over Florida—one of which <a href="http://www.deseretnews.com/article/392575/ONLY-IN-FLORIDA-DOES-COCAINE-DROP-FROM-SKY.html?pg=all">crashed
+through the roof of a Crime Watch meeting and narrowly missed the
+Homestead Chief of
+Police</a>.
+If Florida has been hit by 20 bales of cocaine over the last 20 years,
+then the average person in Florida is struck by an average of 29
+zeptobales of cocaine per second:</p>
+<p>\[\frac{20\text{ bales}}{20\text{ years}}\times\frac{\left
+(\tfrac{75\text{ kg}}{\text{Density of cocaine}}  \right
+)^\tfrac{2}{3}}{\text{Area of
+Florida}}\approx2.9\times10^{-21}\tfrac{\text{bales}}{\text{second}}\]</p>
+<p><br>
+(By the way—this means that given a street price of $20,000 per
+kilogram, a typical acre of Florida land produces an average revenue of
+three cents per year in falling cocaine bales).</p>
+<p>Putting all this together: The probability that every battleground state
+is exactly tied is roughly equal to the probability that, when one of
+the Florida electors reaches into the hat to draw a name, he or she is
+struck by a falling cocaine bale, the hat is hurled away within the next
+few seconds by a tornado, and the elector is obliterated minutes later
+by a meteorite impact.</p>
+<img class="illustration" title="this is still more likely than ron paul winning" src="/imgs/a/19/tie_catastrophe.png">
+<p>If you’re in the US, don’t forget to vote—your vote could make or break
+a tie.</p>
+<p>And if you’re voting in Florida, keep an eye on the sky.</p>
+</article>

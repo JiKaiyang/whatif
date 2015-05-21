@@ -1,0 +1,45 @@
+<article class="entry">
+  <a href="//what-if.xkcd.com/90/"><h1>Great Tree, Great Axe</h1></a>
+  <p id="question">If all the seas were one sea,<br>What a great sea that would be!<br>If all the trees were one tree,<br>What a great tree that would be!<br>If all the men were one man,<br>What a great man that would be!<br>If all the axes were one axe,<br>What a great axe that would be!<br>And if the great man took the great axe,<br>And cut down the great tree,<br>And let if fall into the great sea,<br>What a great splish-splash that would be!</p>
+<p>... How great would all of these things be?</p>
+<p id="attribute">—John Eifert (quoting a <em>Mother Goose</em> rhyme)</p>
+<p>If all the seas were combined into one sea, it would look pretty much like the Pacific Ocean, only a little bigger.</p>
+<img class="illustration" title="Really, the combining of all the land into a new supercontinent would be a much more impressive change." src="/imgs/a/90/ygg_pacific.png">
+<p>The poem's tree, axe, and human are more interesting.</p>
+<p><strong>The tree</strong></p>
+<p>Real trees can't grow taller than around 130 meters, thanks to physical limits on their ability to transport water. If they found a way around those limits, they'd face issues of fundamental physical strength; a kilometers-tall tree would crush itself.</p>
+<p>Let's set aside these limits, and imagine that we built a single standard tree out of all the material in all the world's trees.</p>
+<p>For our "standard tree," we'll use the oak tree from the Sylva Foundation's <a href="http://sylva.org.uk/oneoak/index.php">OneOak</a> project. The project extensively documents <a href="http://sylva.org.uk/oneoak/tree_facts.php">every detail</a> of a single oak tree. As part of the project, the tree was cut down in 2010. Frankly, I'm not sure what to make of the whole thing, but it's as good a candidate as any for our model "standard tree".</p>
+<p>The OneOak tree was 23.9 meters tall and weighed 14.385 tons.<span class="ref"><span class="refnum">[1]</span><span class="refbody">Slightly more of the mass was in the branches than the trunk.</span></span> By comparison, one <a href="http://www.silvafennica.fi/pdf/article244.pdf">paper</a> estimates that the world's forests have an aboveground plant mass of about 470 billion tons.</p>
+<p>If—ignoring the physical constraints—we combined this mass into a single tree, modeled on the OneOak, the trunk would be two kilometers in diameter. The upper branches would stretch about 75 kilometers above the surface—most of the way to space.</p>
+<img class="illustration" title="Felix Baumgartner jumped from one of the lowest branches." src="/imgs/a/90/ygg_tree.png">
+<p><strong>The human</strong></p>
+<p>If we used the same approach to combine every living human into a single body—again, ignoring the obvious physical constraints—that person would be close to 3 kilometers tall.</p>
+<img class="illustration" title="With teeth roughly the size of whales." src="/imgs/a/90/ygg_human.png">
+<p>Proportionally, the person would have grown slightly less than the tree.</p>
+<p><strong>The axe</strong></p>
+<p>How many axes are there in the world?</p>
+<p>Thanks to multiple meanings of the word "axes", this is a hard problem to Google.<span class="ref"><span class="refnum">[2]</span><span class="refbody">That, and the fact that it's a weird statistic that no one has any real reason to try to gather data on even if they could find a way to do so.</span></span> Instead, let's try to get a reasonable guess through <a href="http://what-if.xkcd.com/84/">Fermi estimation</a>.</p>
+<p>Since there's no central clearinghouse of axe-related information, I thought I'd try asking friends how many axes they had.</p>
+<img class="illustration" title="Come to think of it, I don't actually know who this guy is." src="/imgs/a/90/ygg_ask.png">
+<p>But this might miss a lot of axes; for example, some axes—like fire axes—are owned by organizations. To get a slightly fairer sample, I asked a bunch of friends around the country to estimate the number of axes and number of humans in their general vicinity.</p>
+<p>Some people were in houses with sheds, and had a 2:1 human-to-axe ratio. Other people were in large offices with hundreds of people and at best one or two fire axes. The average seemed to be around 50:1—much lower than I expected.<span class="ref"><span class="refnum">[3]</span><span class="refbody">I grew up in a house with a wood shop, and we always had a roughly 1:1 axe-to-human ratio.</span></span></p>
+<p>Of course, surveying random Internet-connected people who I know is hardly representative; rural people probably have more axes, while the very poor might not have any. But it also wouldn't make sense for there to be substantially more axes than people, if for no other reason than that humans can only really use one axe at a time.</p>
+<img class="illustration" title="And what do I do if one axe gets used up mid-activity? I need spares." src="/imgs/a/90/ygg_ask2.png">
+<p>But absent any other data, I'm guessing the ratio of humans to axes is probably somewhere between 50:1 and 5:1.</p>
+<p>This means that our combined axe would be a little small for our combined person. It would be only a little over half a kilometer long—barely more than a flimsy hatchet.</p>
+<img class="illustration" title="And I looked and I saw the angel open the second seal, a gigantic woodpecker emerged. The people wailed and cowered in terror as its wings blotted out the Sun." src="/imgs/a/90/ygg_axe.png">
+<p>If an experienced axe user can chop down an eight-inch tree in 15 minutes, then chopping down our giant tree—if the rate is proportional to the axe size and square of the tree's diameter—would most likely take a few weeks of chopping.</p>
+<p><strong>The fall</strong></p>
+<p>The tree would weigh between 1% and 10% as much as the Chicxulub asteroid that killed the dinosaurs.</p>
+<p>It would strike the ocean with much less speed than the Chicxulub asteroid, and the energy release would be much less substantial. However, it would still be moving at kilometers per second, and would be able to displace a gigantic amount of water.</p>
+<p>The Chicxulub impact created a giant tsunami; the buried layer of jumbled sand mixed with a fossilized forest it left along the coast of the Gulf of Mexico was a crucial clue in discovering the location of the crater.<span class="ref"><span class="refnum">[4]</span><span class="refbody">For more on this discovery, I can't recommend the book <em><a href="http://www.amazon.com/Crater-Doom-Princeton-Science-Library-ebook/dp/B00BMVRBLC/ref=sr_sp-atf_title_1_1?s=books&amp;ie=UTF8&amp;qid=1396542141&amp;sr=1-1&amp;keywords=t+rex+and+the+crater+of+doom">T. Rex and the Crater of Doom</a></em> highly enough. It's written by Walter Alvarez—one of the researchers who found the first evidence for the impact—and is one of the best pieces of popular science writing I've ever read.</span></span></p>
+<p>There have been some <a href="https://www.youtube.com/watch?v=Dcp0JhwNgmE">beautiful simulations</a> of the Chicxulub tsunami. The exact details of the tsunami depend on a lot of factors, but it seems safe to say that waves at least tens or hundreds of meters high would inundate every coastline and destroy virtually every coastal city and many farther inland.</p>
+<p>In other words, the Mother Goose poem in John's question probably wouldn't wipe out the human race, but it would probably be the deadliest single disaster in our species's history. Even by the ghastly standards of old childrens' fairy tales, that's pretty bad.</p>
+<p><strong>Axe law</strong></p>
+<p>In closing, I offer my favorite piece of axe-related legal trivia:<span class="ref"><span class="refnum">[5]</span><span class="refbody">That's not a <em>long</em> list, but the things on it are all pretty memorable.</span></span></p>
+<p>Lawyer Kevin Underhill, of the legal blog <em>Lowering the Bar</em>, <a href="http://kevinunderhill.typepad.com/lowering_the_bar/case-law-hall-of-fame.html">highlighted</a> the wonderful 1998 case <em><a href="http://kevinunderhill.typepad.com/Documents/Opinions/People_v_Foranyic.pdf">People v. Foranyic</a></em>. In this case, he writes, appeals court ruled "that there was probable cause for police to detain someone they see riding a bike at 3 a.m., carrying an axe."</p>
+<p>So if you're two miles tall and heading toward the coast to cut down the world's only tree ...</p>
+<img class="illustration" title="But I was BORN for this." src="/imgs/a/90/ygg_bike.png">
+<p>... watch out for cops.</p>
+</article>

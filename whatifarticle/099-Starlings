@@ -1,0 +1,26 @@
+<article class="entry">
+  <a href="//what-if.xkcd.com/99/"><h1>Starlings</h1></a>
+  <p id="question">I was watching <a href="http://www.youtube.com/watch?v=eakKfY5aHmY">this video</a> and was wondering: How many birds there would need to be for gravity to take over and force them into a gargantuan ball of birds?</p>
+<p id="attribute">—Justin Basinger</p>
+<p>The video shows starlings, birds which ...</p>
+<ul>
+<li>• gather in giant flocks of sometimes more than a million animals</li>
+<li>• can <a href="https://www.youtube.com/watch?v=1VZYG00_qvE">talk</a></li>
+<li>• sound like R2-D2, though not as much as <a href="https://www.youtube.com/watch?v=9ABjBldAtPQ#t=9">bobolinks</a> do</li>
+</ul>
+<p>The gravitational force between adjacent starlings is small. If two birds were flying half a meter apart and tried to go perfectly straight, they would fly for over a thousand kilometers before the gravitational force between them finally steered them into colliding.</p>
+<img class="illustration" title="The one on the left clearly had a yield sign." src="/imgs/a/99/collide.png">
+<p>Side note: The following is the first sentence from <a href="http://jeb.biologists.org/content/204/19/3311">a journal article</a> on starling metabolism:</p><blockquote><em>We trained two starlings (Sturnus vulgaris) to fly in a wind tunnel whilst wearing respirometry masks.</em></blockquote>
+<p>I really think the paper should have stopped there; no matter what their results were, they can't possibly improve on the achievement they opened with.</p>
+<img class="illustration" title="Your 'experimental design' section is just a photo of a bird in a breathing mask and flight goggles. As your grant reviewer, I have to say: Do you want more money?" src="/imgs/a/99/masks.png">
+<p>Anyway, back to gravity.</p>
+<p>To calculate the gravitational force from a whole flock of starlings, we need to know the flock's density.</p>
+<p>Conveniently, <a href="http://arxiv.org/abs/0802.1667">a 2008 paper</a> in <em>Animal Behavior</em> gathered some detailed statistics on starling flocks. The highest density they saw was about half a starling per cubic meter.<span class="ref"><span class="refnum">[1]</span><span class="refbody">0.54 (•)&gt;m<sup>-3</sup></span></span> If the birds weigh about 85 grams each, that means the air in a starling flock weighs 25 times more than the starlings themselves.<span class="ref"><span class="refnum">[2]</span><span class="refbody">This makes a certain intuitive sense. If they were that much heavier than the air between them, it's hard to imagine how they'd be able to stay airborne by pushing off of it with their wings.</span></span></p>
+<p>This means that the air's gravity is 25 times stronger than the starling cloud's gravity, and it's the air's gravity that will dominate the collapse.</p>
+<p>The collapse of giant clouds of gas or birds is governed by the equation for the <a href="http://en.wikipedia.org/wiki/Jeans_instability">Jeans instability</a>. It suggests that in order to undergo collapse, a cloud of uniform room-temperature air full of starlings would have to be much larger than the Earth to collapse.</p>
+<img class="illustration" title="If that thing engulfs Earth, the chirping will be DEAFENING." src="/imgs/a/99/earth.png">
+<p>The gas cloud's gravity would be very weak, so the starlings would probably have a hard time flying until they got used to it. (Birds <a href="https://www.youtube.com/watch?v=w4sZ3qe6PiI&amp;feature=kp">can fly</a> in zero g—or, at least, they flap around in confusion. But, to be fair, that's how <em>I'd</em> react if I were abruptly and without warning yanked from my bed and tossed into the air in a zero g airplane cabin.)</p>
+<p>Such a cloud wouldn't form in the first place without some extra compression. To collapse naturally under its own gravity, the starling cloud would need to be so large that it would engulf the Solar System. When it did collapse, it would heat up, and the starlings ...</p>
+<img class="illustration" title="This star's gonna have some weird spectral lines, though." src="/imgs/a/99/birdsun.png">
+<p>... would become a star.</p>
+</article>

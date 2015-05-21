@@ -1,0 +1,39 @@
+<article class="entry">
+  <a href="//what-if.xkcd.com/76/"><h1>Reading Every Book</h1></a>
+  <p id="question">At what point in human history were there too many (English) books to be able to read them all in one lifetime?</p>
+<p id="attribute">Gregory Willmot</p>
+<p>This is a complicated question. Getting accurate counts of the number of extant books at different times in history is very hard bordering on impossible. For example, when the Library of Alexandria burned, a lot of writing was lost,<span class="ref"><span class="refnum">[1]</span><span class="refbody">On the other hand, a lot of Egyptian readers were probably excited to get out of overdue book fines.</span></span> but <em>how much</em> writing was lost is hard to pin down. Some estimates range from 40,000 books to 532,800 scrolls,<span class="ref"><span class="refnum">[2]</span><span class="refbody"><a href="http://penelope.uchicago.edu/~grout/encyclopaedia_romana/greece/paganism/library.html">The Great Library of Alexandria</a></span></span> and other writers say that all those numbers are implausible.</p>
+<p>Researchers Eltjo Buringh and Jan Luiten van Zanden used historical book catalogs to put together statistics on the number of books (or manuscripts) published annually per region.<span class="ref"><span class="refnum">[3]</span><span class="refbody"><a href="http://vkc.library.uu.nl/vkc/seh/research/Lists/Research%20Desk/Attachments/14/Charting%20the%20'Rise%20of%20the%20West'.pdf">Charting the “Rise of the West”: Manuscripts and Printed Books in Europe, A Long-Term Perspective from the Sixth through Eighteenth Centuries </a></span></span> By their figures, the rate of publication in the British Isles probably passed one manuscript per day in around the year 1075 CE.</p>
+<p>Most of the manuscripts published in 1075 weren't in English, or even the variants of English common at the time. In 1075, literature was typically written in some form of Latin or French, even in areas where Old English was commonly spoken on the street.</p>
+<p>The Canterbury Tales (written in the late 1300s) were part of a move toward vernacular English as a literary language, although they're not exactly readable to a modern eye:</p>
+<blockquote><em>Wepyng and waylyng, care and oother sorwe<br>I knowe ynogh, on even and a-morwe,'<br>Quod the Marchant, 'and so doon oother mo<br>That wedded been.</em></blockquote>
+<img class="illustration" title="If my 9th grade English teacher is reading, ignore this, I TOTALLY understand that verse." src="/imgs/a/76/books_what.png">
+<p>Even if we know how many manuscripts were published per year, in order to answer Gregory's question, we still need to know how long it takes to <em>read</em> a manuscript.</p>
+<p>Rather than trying to figure out how long all the lost books and codices are, we can step back and take a longer view of things.</p>
+<p><strong>Writing speed</strong></p>
+<p>Tolkien wrote Lord of the Rings in 11 years, which means that he wrote at an average pace of 125 words per day, or less than 0.085 word per minute. Harper Lee wrote the 100,000-word <em>To Kill a Mockingbird</em> in two and a half years, for an average of 100 words per day, or 0.075 words per minute. Since <em>To Kill a Mockingbird</em> is her only published book, her lifetime average is 0.002 words per minute, or about three words per day.</p>
+<p>Some writers are substantially faster. In the preface to <em>Opus 200</em>, the prolific writer Isaac Asimov estimated that he had published about 15,000,000 words between age 30 and 50. His average over his writing career might have been around 1 word per minute, and at times he was averaging writing several thousand words per day. (Over his entire life, his average dips as low as 0.5 words per minute.) Some pulp writers have even higher averages.</p>
+<p>It's reasonable to assume historical writers had a similar range of speeds. You might point out that typing on a keyboard is more than twice as fast as writing a manuscript in longhand. But typing speed isn't a writer's bottleneck. After all, at a typing speed of 70 words per minute, it should only take 24 hours to type out <em>To Kill a Mockingbird</em>.</p>
+<img class="illustration" title="Well, they say to write what you know." src="/imgs/a/76/books_tkamps.png">
+<p>Typing and writing speeds are so different because the limit on writing speed is how quickly our brains can organize, produce, and edit stories. This "storytelling speed" has probably changed much less over time than our physical writing speed has.</p>
+<p>This gives us a much better way to estimate when the number of books became too large to read.</p>
+<p>The average person can read at 200-300 words per minute. If the average living writer, over their entire lifetime, falls somewhere between Isaac Asimov and Harper Lee, they might produce 0.05 words per minute over their entire lifetime.</p>
+<p>If you were to read for 16 hours a day at 300 words per minute,<span class="ref"><span class="refnum">[4]</span><span class="refbody">For an average of 200 words per minute.</span></span> you could keep up with a world containing an average population of 100,000 living Harper Lees or 400 living Isaac Asimovs.</p>
+<img class="illustration" title="Isaacs Asimov?" src="/imgs/a/76/books_leeasimov.png">
+<p>If we estimate that during their <em>active</em> periods, writers are producing somewhere between 0.1 and 1 word per minute, then one dedicated reader might be able to keep up with a population of about 500 or 1,000 active writers. The answer to Gregory's question—the date at which there were too many English books to read in a lifetime—happened sometime before the population of active English writers reached a few hundred. At that point, catching up became impossible.</p>
+<p>The magazine <em>Seed</em> estimates that the total number of authors reached this point around the year 1500 and has continued rising rapidly ever since.<span class="ref"><span class="refnum">[5]</span><span class="refbody"><a href="http://seedmagazine.com/content/article/a_writing_revolution/">Seed: A Writing Revolution</a></span></span> The number of active English writers crossed this threshold shortly thereafter, around the time of Shakespeare, and the total number of books in English probably passed the lifetime reading limit sometime in the late 1500s.</p>
+<p>On the other hand, how many of them would you <em>want</em> to read? If you go to <a href="http://www.goodreads.com/book/random">goodreads.com/book/random</a>, you can see a semi-random sample of what you'd be reading. Here's what came up for me:</p>
+<ul>
+<li><strong>• School Decentralization in the Context of Globalizing Governance: International Comparison of Grassroots Responses</strong>, by Holger Daun</li>
+<li><strong>• Powołanie (Dragon Age #2)</strong>, by David Gaider</li>
+<li><strong>• An Introduction to Vegetation Analysis: Principles, Practice and Interpretation</strong>, by David R. Causton</li>
+<li><strong>• AACN Essentials of Critical-Care Nursing Pocket Handbook</strong>, by Marianne Chulay</li>
+<li><strong>• National righteousness and national sin: the substance of a discourse delivered in the Presbyterian church of South Salem, Westchester co., N.Y., November 20, 1856</strong>, by Aaron Ladner Lindsley</li>
+<li><strong>• Phantom of the Auditorium (Goosebumps #24)</strong>, by R. L. Stine</li>
+<li><strong>• High Court #153; Case Summaries on Debtors and Creditors-Keyed to Warren</strong>, by Dana L. Blatt</li>
+<li><strong>• Suddenly No More Time</strong>, by Emil Gaverluk</li>
+</ul>
+<p>So far, I've read ... the Goosebumps book.</p>
+<p>To make it through the rest, I might need to recruit some help.</p>
+<img class="illustration" title="'Can't I skip my OWN books? There are so many of them!' 'No, Isaac. You know the rules.'" src="/imgs/a/76/books_toomany.png">
+</article>

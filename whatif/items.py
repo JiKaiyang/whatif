@@ -7,10 +7,13 @@
 
 import scrapy
 
-
 class WhatifItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
     title = scrapy.Field()
     article = scrapy.Field()
+    question = scrapy.Field()
+    attribute = scrapy.Field()
     link = scrapy.Field()
+    images = scrapy.Field()
+    No = scrapy.Field()

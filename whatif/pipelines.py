@@ -8,4 +8,7 @@
 
 class WhatifPipeline(object):
     def process_item(self, item, spider):
+        with open(item["No"] + "-" + item["title"], "w") as f:
+            print "Saving main content: {} - {}".format(item["No"], item["title"])
+            f.write(item["article"])
         return item

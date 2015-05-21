@@ -1,0 +1,20 @@
+<article class="entry">
+  <a href="//what-if.xkcd.com/88/"><h1>Soda Sequestration</h1></a>
+  <p id="question">How much CO<sub>2</sub> is contained in the world's stock of bottled fizzy drinks? How much soda would be needed to bring atmospheric CO<sub>2</sub> back to preindustrial levels?</p>
+<p id="attribute">Brandon Seah</p>
+<p>For most of the history of civilization, there were about 270 parts per million of carbon dioxide in the atmosphere. In the last hundred years, industrial activity has <a href="http://www.skepticalscience.com/print.php?r=45">pushed that number up</a> to 400 parts per million.</p>
+<p>One "part per million" of CO<sub>2</sub> weighs about 7.8 billion tons. A can of soda contains in the neighborhood of 2.2 grams of CO<sub>2</sub>, so you would need about 450 quadrillion cans of soda. That's enough to cover the Earth's land with ten layers of cans.</p>
+<img class="illustration" title="Mesosphere, asthenosphere, lithosphere, sodasphere" src="/imgs/a/88/soda_layers.png">
+<p>There's clearly not enough room to do this. Even if we stacked the cans up to the edge of space,<span class="ref"><span class="refnum">[1]</span><span class="refbody">I don't have any hard numbers, but my guess would be that you could probably stack supermarket soda six-pack crates a few hundred meters high before the bottom layer ruptures.</span></span> they'd still take up an area the size of Rhode Island.<span class="ref"><span class="refnum">[2]</span><span class="refbody">We shouldn't actually try it, given what happened <a href="http://what-if.xkcd.com/8/">last time</a>.</span></span></p>
+<p>We'd need to add even more cans to keep up with ongoing emissions. We're currently increasing the atmosphere's CO<sub>2</sub> concentration by an average of 2 parts per million each year:</p>
+<img class="illustration" title="If you squint at some of these graphs, you can see the effect of the fall of the Soviet Union due to abrupt industrial and land use changes." src="/imgs/a/88/soda_graph.png">
+<p>At that rate, we'd need to add one can of soda per person every 30 seconds, which is about 10,000 times the current consumption rate.<span class="ref"><span class="refnum">[3]</span><span class="refbody">The global <a href="http://what-if.xkcd.com/74/">average</a> is one can per person every 5 days. In the US, the average is one every 18 hours.</span></span> That would add a new layer of cans to the ground every 6<span class="ref"><span class="refnum">[4]</span><span class="refbody">I originally had the wrong number here; thank you to Paulina for catching it!</span></span> years or so.</p>
+<p>This layer of cans would get pretty annoying.</p>
+<img class="illustration" title="Following the resurfacing, that soda/coke/pop dialect map will come to define our national political divisions." src="/imgs/a/88/soda_annoying.png">
+<p>Are there any ways out of this predicament?</p>
+<p>In some areas, you can turn in soda cans for recycling and receive a small amount of money; in Massachusetts, where I live, it's 5 cents. If you collected one year's worth of soda cans—instead of layering them across the Earth's surface—and emptied them out, you could redeem them for $372 trillion.</p>
+<p>With that much money, you could simply buy the world's current reserves<span class="ref"><span class="refnum">[5]</span><span class="refbody">Source: <a href="http://xkcd.com/980">xkcd.com/980</a>, bottom right.</span></span> of coal, oil, and natural gas—the source of the whole problem.</p>
+<p>Then, you put it all back in the ground and leave it there.</p>
+<img class="illustration" title="You're never, ever gonna get your wish." src="/imgs/a/88/soda_ground.png">
+<p>Problem solved.</p>
+</article>

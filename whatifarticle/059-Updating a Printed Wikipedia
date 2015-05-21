@@ -1,0 +1,34 @@
+<article class="entry">
+  <a href="//what-if.xkcd.com/59/"><h1>Updating a Printed Wikipedia</h1></a>
+  <p id="question">If you had a printed version of the whole of (say, the English) Wikipedia, how many printers would you need in order to keep up with the changes made to the live version?</p>
+<p id="attribute">Marein Könings</p>
+<p>This many:</p>
+<img class="illustration" title="If a date took you home and you saw a row of working printers set up in their living room, what would you think?" src="/imgs/a/59/wiki_count.png">
+<p>That's surprisingly few printers! But before you try to create a live-updating paper Wikipedia, let's look at what those printers would be <em>doing</em> ... and how much they'd cost.</p>
+<p><strong>Printing Wikipedia</strong></p>
+<p>People have considered printing out Wikipedia before. A few years ago, student Rob Matthews printed <a href="http://www.brandnew.uk.com/wikipedia-as-a-printed-book/">every Wikipedia featured article</a>, creating a book several feet thick.</p>
+<p>Of course, that's just a small slice of the best of Wikipedia; the entire encyclopedia would be a lot bigger. Wikipedia user <a href="http://en.wikipedia.org/wiki/User:Tompw">Tompw</a> has set up <a href="http://en.wikipedia.org/wiki/Wikipedia:Size_in_volumes">a page</a> for calculating the size of the whole English Wikipedia in printed volumes. It would currently fill a lot of bookshelves.</p>
+<p>Keeping up with the edits would be harder.</p>
+<p><strong>Keeping up</strong></p>
+<p>The English Wikipedia currently receives about 125,000 to 150,000 edits each day, or 90-100 per minute.<span class="ref"><span class="refnum">[1]</span><span class="refbody"><a href="http://toolserver.org/~emijrp/wmcharts/wmchart0001.php">ToolServer: Edit rate</a></span></span></p>
+<p>We could try to define a way to measure the "word count" of the average edit, but that's hard bordering on impossible. Fortunately, we don't need to—we can just estimate that each change is going to require us to reprint a page somewhere. Many edits will actually change multiple pages—but many other edits are reverts, which would let us put back pages we've already printed.<span class="ref"><span class="refnum">[2]</span><span class="refbody">The filing system for this would be <a href="http://commons.wikimedia.org/wiki/File:IBM_card_storage.NARA.jpg">staggering</a>.</span></span> One page per edit seems like a reasonable middle ground.</p>
+<p>For a mix of photos, tables, and text typical of Wikipedia, a good inkjet printer might put out 15 pages per minute. That means you'd only need about six printers running at any given time to keep pace with the edits.</p>
+<p>The paper would stack up quickly. Using Rob Matthews' book as a starting point, I did my own back-of-the-envelope estimate for the size of the current English Wikipedia. Based on the average length of featured articles vs. all articles, I came up with an estimate of 300 cubic meters for a printout of the whole thing.<span class="ref"><span class="refnum">[3]</span><span class="refbody">That's a little larger than Tompw's estimate, but I'm assuming they're printed straight from the browser, which is less compact and includes images.</span></span></p>
+<p>By comparison, if you were trying to keep up with the edits, you'd print out 300 cubic meters every <em>month</em>.</p>
+<p><strong>$500,000 per month</strong></p>
+<p>Six printers isn't that many, but they'd be running all the time. And that gets expensive.</p>
+<p>The electricity to run them would be cheap—a few dollars a day.</p>
+<p>The paper would be about one cent per sheet, which means you'll be spending about a thousand dollars a day.</p>
+<p>You'd want to hire people to manage the printers 24/7, but that would actually cost less than the paper.</p>
+<p>Even the printers themselves wouldn't be too expensive, despite the terrifying replacement cycle.</p>
+<p>But the <em>ink</em> cartridges would be a nightmare.</p>
+<p><strong>Ink</strong></p>
+<p>A study by QualityLogic<span class="ref"><span class="refnum">[4]</span><span class="refbody">QualityLogic: <a href="http://www.qualitylogic.com/tuneup/uploads/docfiles/QualityLogic-Cost-of-Ink-Per-Page-Analysis_US_1-Jun-2012.pdf">Cost of Ink Per Page Analysis</a>, June 2012</span></span> found that for a typical inkjet printer, the real-life cost of ink ran from 5 cents per page for black-and-white to around 30 cents per page for photos. That means you'd be spending four to five figures per <em>day</em> on ink cartridges.</p>
+<p>You definitely want to invest in a laser printer. Otherwise, in just a month or two, this project could end up costing you half a million dollars:</p>
+<img class="illustration" title="No, it started long before that." src="/imgs/a/59/wiki_wrong.png">
+<p>But that's not even the worst part.</p>
+<p>If, someday, Wikipedia decides to <a href="http://sys01-public.msnbc.msn.com/technology/wikipedia-goes-dark-piracy-bill-protest-day-117714">go dark</a> again, and you want to join the protest ...</p>
+<img class="illustration" title="Make sure not to remove all the marker caps at once and inhale deeply." src="/imgs/a/59/wiki_sharpies.png">
+<p>You'll have to get a crate of markers and color every page solid black yourself.</p>
+<p>I would definitely stick to digital.</p>
+</article>
