@@ -1,0 +1,45 @@
+\documentclass[11pt]{book}
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage{listings, setspace}
+\usepackage[font={small,it}]{caption}
+\usepackage{amsmath}
+\usepackage[export]{adjustbox}
+\usepackage{fontspec, xcolor}
+\usepackage[british]{babel}
+\setmainfont[
+%    BoldFont={DejaVu Sans Bold}, 
+    ItalicFont={DejaVu Sans Oblique},
+]{DejaVu Sans}
+\definecolor{MSBlue}{rgb}{.204,.353,.541}
+\definecolor{MSLightBlue}{rgb}{.31,.506,.741}
+\hypersetup{
+    colorlinks,
+    citecolor=MSLightBlue,
+    filecolor=MSLightBlue,
+    linkcolor=black,
+    urlcolor=MSLightBlue
+}
+\setlength{\parskip}{0.6em}
+\usepackage{tocloft}
+\cftsetindents{chapter}{0em}{2.8em}
+
+\newcommand\question[1]{\begin{spacing}{1.5}{\color{MSBlue}\fontsize{14}{16}\selectfont{\emph{#1}}}\vspace{.10in}\end{spacing}}
+\newcommand\attribute[1]{{\color{MSBlue}\fontsize{12}{16}\selectfont{\hfill\hfill#1\hfill}}\vspace{.10in}}
+\renewcommand{\chaptername}{Question}
+
+\title{What if}
+\author{Various}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\phantomsection
+\addcontentsline{toc}{chapter}{Contents}
+\tableofcontents
+\flushleft
+\include{whatifcontent}
+
+\end{document}

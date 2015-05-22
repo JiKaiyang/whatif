@@ -1,7 +1,8 @@
 #!/bin/bash
 
-[[ -e whatif.tex ]] && mv whatif.tex whatif.tex.bak
+f="whatifcontent.tex"
+[[ -e ${f} ]] && mv ${f} ${f}".bak"
 for i in ./*.txt;do
     echo "processing ${i}"
-    ./tolatex.py "${i}" >> whatif.tex
+    ./tolatex.py "${i}" ${f}
 done

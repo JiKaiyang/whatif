@@ -1,8 +1,26 @@
 #!/usr/bin/python
+# -*- coding: utf-8 -*-
 from HTMLParser import HTMLParser
 from re import sub
 from sys import stderr
 from traceback import print_exc
+
+def replacemark(string):
+    if len(string) == 0:
+        return ""
+    mark = ["$", "%", "^", "_", "#", "~"]
+    s = "\\"+string[0] if string[0] in mark else string[0]
+    for i in range(len(string)-1):
+        if string[i] == "\\" and ( string[i+1] == '[' or string[i+1] == '('):
+            for j in range(i+1, len(string)):
+                if string[j-1] != "\\" and string[j] in mark[:2]:
+                    s += '\\'
+                s += string[j]
+            return s
+        if string[i] != "\\" and string[i+1] in mark:
+            s += '\\'
+        s += string[i+1]
+    return s
 
 class ToLatex(HTMLParser):
     def __init__(self):
@@ -13,19 +31,7 @@ class ToLatex(HTMLParser):
         text = data.strip()
         if len(text) > 0:
             text = sub('[ \t\r\n]+', ' ', text)
-            if len(self.text) > 1 and self.text[-2] == "":
-                self.text[-2] = text.replace('%', '\\%')
-                return
-            self.text.append(text.replace('%', '\\%'))
-
-    def appendbrace(self, string):
-        if len(self.text) > 2 and self.text[-2] == '':
-            self.text[-3] += string
-            self.text[-1] += "}"
-        else:
-            self.text.append(string)
-            self.text.append('')
-            self.text.append('}')
+            self.text.append(replacemark(text))
 
     def handle_starttag(self, tag, attrs):
         d = dict(attrs)
@@ -33,42 +39,54 @@ class ToLatex(HTMLParser):
             self.text.append('\n')
             if 'id' in d.keys():
                 if d['id'] == 'question':
-                    self.appendbrace('\\question{')
-                if d['id'] == 'attribute':
-                    self.appendbrace('\\attribute{')
+                    self.text.append('\\question')
+                elif d['id'] == 'attribute':
+                    self.text.append('\\hfill')
+                    self.text.append('\\attribute')
+            self.text.append('{')
         if tag == 'br':
             self.text.append('\n')
         if tag == 'em':
-            self.appendbrace(' \\emph{')
+            self.text.append(' \\emph{')
         if tag == 'h1':
-            self.appendbrace('\n\\chapter{')
+            if 'href' in self.text[-1]:
+                self.text[-1] = '{'
+            self.text.append('\n\\chapter{')
         if tag == 'img':
-            self.text.append('\n\\begin{{figure}}\n\\caption{{{0}}}\n\\centering\n\\includegraphics{{{1}}}\n\\end{{figure}}\n'.format(d['title'], d['src'][1:]))
+            src = d['src'][1:] if not d['src'].startswith('http://what-if.xkcd.com/') else d['src'][len('http://what-if.xkcd.com/'):]
+            self.text.append(u'\n\\begin{{figure}}\n\\centering\n\\includegraphics[scale=0.8, max width=\\textwidth]{{{1}}}\n\\caption{{{0}}}\n\\end{{figure}}\n'.format(replacemark(d['title']), src))
         if tag == 'a':
-            if len(self.text) < 3:
-                return
-            link = d['href'].replace('%','\\%')
-            self.appendbrace(' \\href{' + link + '}{')
+            link = replacemark(d['href'])
+            self.text.append(u' \\href{' + link + '}{')
         if tag == 'span':
-            if d['class'] == 'refnum':
-                self.text.append("__del__")
-            if d['class'] == 'refbody':
-                self.appendbrace(' \\footnote{')
+            if 'class' in d.keys() and d['class'] == 'refbody':
+                self.text.append(' \\footnote{')
+            elif 'class' in d.keys() and d['class'] == 'refnum':
+                self.text.append('__del__')
+            else:
+                self.text.append('{')
 
     def handle_startendtag(self, tag, attrs):
         if tag == 'img':
             d = dict(attrs)
-            self.text.append('\n\\begin{{figure}}\n\\caption{{{0}}}\n\\centering\n\\includegraphics{{{1}}}\n\\end{{figure}}\n'.format(d['title'], d['src'][1:]))
+            src = d['src'][1:] if not d['src'].startswith('http://what-if.xkcd.com/') else d['src'][len('http://what-if.xkcd.com/'):]
+            self.text.append(u'\n\\begin{{figure}}\n\\centering\n\\includegraphics[max width=\\textwidth]{{{1}}}\n\\caption{{{0}}}\n\\end{{figure}}\n'.format(replacemark(d['title']), src))
         
     def handle_endtag(self, tag):
         if tag == 'h1':
-            self.text.append('\n')
+            self.text.append('}\n')
         if tag == 'p':
-            self.text.append('\n')
-        if tag == 'span':
-            if self.text[-2] == '__del__':
-                self.text.pop()
-                self.text.pop()
+            self.text.append('}\n')
+        if tag == 'span' or tag == 'em':
+            if '__del__' in self.text:
+                self.text = self.text[:self.text.index('__del__')]
+            else:
+                self.text.append('} ')
+        if tag == 'a':
+            if self.text[-1].endswith('{'):
+                self.text[-1] = ""
+            else:
+                self.text.append('}')
 
     def totext(self):
         return ''.join(self.text).strip()
@@ -84,12 +102,20 @@ def html2latex(text):
         return text
 
 def main(filename):
+    import codecs
     text = ""
-    with open(filename, 'r') as f:
+    with codecs.open(filename, 'r', 'utf8') as f:
         text = "".join(f.readlines())
     return html2latex(text)
 
 if __name__=="__main__":
     import sys
+    import codecs
     text = main(sys.argv[1])
-    print text.encode('utf-8')
+    if len(sys.argv) > 2:
+        filename = sys.argv[2]
+        with codecs.open(filename, 'a+', 'utf8') as f:
+            f.write(text)
+            f.write('\n\n')
+    else:
+        print text
