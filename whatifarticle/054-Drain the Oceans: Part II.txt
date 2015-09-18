@@ -1,0 +1,48 @@
+<article class="entry">
+  <a href="//what-if.xkcd.com/54/"><h1>Drain the Oceans: Part II</h1></a>
+  <p id="question">Supposing you did <a href="http://what-if.xkcd.com/53/">Drain the Oceans</a>, and dumped the water on top of the Curiosity rover, how would Mars change as the water accumulated?</p>
+<p id="attribute">–Iain</p>
+<p>In the <a href="http://what-if.xkcd.com/53/">previous What If</a>, we opened a portal at the bottom of the Mariana Trench and let the oceans drain out.</p>
+<p>We didn't worry too much about where the oceans were draining <em>to</em>. I picked Mars; the Curiosity rover is working so hard to find evidence of water, so I figured we could make things easier for it.</p>
+<img class="illustration" title="Instead of being sad forever, like Spirit, here's a rover that's briefly very happy!" src="/imgs/a/54/mars_curiosity.png">
+<p>Curiosity is sitting in Gale Crater, a round depression in the Martian surface with a peak, nicknamed Mt. Sharp, in the center.</p>
+<p>There's a lot of water on Mars.<span class="ref"><span class="refnum">[1]</span><span class="refbody">Donald Rapp, <a href="http://spaceclimate.net/Mars.Water.7.06R.pdf">Accessible Water on Mars</a>, JPL D-31343-Rev.7</span></span> The problem is, it's frozen. Liquid water doesn't last long there, because it's too cold and there's too little air.</p>
+<p>If you set out a cup of warm water on Mars, it'll try to boil, freeze, and sublimate, practically all at once.<span class="ref"><span class="refnum">[2]</span><span class="refbody">D. L. Santiago et. al., <a href="http://spacescience.arc.nasa.gov/mars-climate-workshop-2012/documents/extendedabstracts/Santiago_DL_ExAbst.pdf">Mars climate and outflow events</a></span></span> Water on Mars seems to want to be in <em>any</em> state except liquid.</p>
+<p>However, we're dumping a lot of water very fast (all of it at a few degrees above 0°C), and it won't have much time to freeze, boil, or sublimate. If our portal is big enough, the water will start to turn Gale Crater into a lake, just like it would on Earth. We can use the excellent <a href="http://pubs.usgs.gov/imap/i2782/">USGS Mars Topographic Map</a> to chart the water's progress.</p>
+<p>Here's Gale Crater at the start of our experiment:</p>
+<img class="illustration" title="'Gale Lake' is a little awkward; I suggest 'Lake Gale'." src="/imgs/a/54/mars_1.png">
+<p>As the flow continues, the lake fills in, burying Curiosity under hundreds of meters of water:</p>
+<img class="illustration" title="What do I have against Curiosity? Well, I'm working for the Cat." src="/imgs/a/54/mars_2.png">
+<p>Eventually, Mt. Sharp becomes an island. However, before the peak can disappear completely, the water spills over the north rim of the crater and starts flowing out across the sand.</p>
+<img class="illustration" title="The stream flows north because of ... let's say 'the Coriolis Effect', and make some physics professor somewhere spit out their coffee." src="/imgs/a/54/mars_3.png">
+<p>When this kind of thing happens on Mars in real life, the trickle of water quickly dries up before it can get very far.<span class="ref"><span class="refnum">[3]</span><span class="refbody">D. L. Santiago et. al., <a href="http://www.lpi.usra.edu/meetings/lpsc2012/pdf/2438.pdf">Cloud formation and water transport on mars after major outflow events</a>, 43rd Planetary Science Conference (2012)</span></span> However, we've got a lot of ocean at our disposal.</p>
+<img class="illustration" title="The hand of Earth stretches across the desert." src="/imgs/a/54/mars_4.png">
+<p>The water pools in the North Polar Basin:</p>
+<img class="illustration" title="The defunct Phoenix lander is probably the first to go after Curiosity." src="/imgs/a/54/mars_5.png">
+<p>Gradually, it will fill the basin:</p>
+<img class="illustration" title="Then Viking." src="/imgs/a/54/mars_6.png">
+<p>However, if we look at a map of the more equatorial regions of Mars, where the volcanoes are, we'll see that there's still a lot of land far from the water:</p>
+<img class="illustration" title="[Mercator projection; does not show the poles.]" src="/imgs/a/54/mars_7.png">
+<p>Frankly, I think this map is kind of boring; there's not a lot going on. It's just a big empty swath of land with some ocean at the top.</p>
+<img class="illustration" title="Would not buy again." src="/imgs/a/54/mars_7_stars.png">
+<p>We haven't come close to running out of ocean yet. Although there was a lot of blue on the map of the Earth at the end of our last article, the seas that remained were shallow; most of the volume of the oceans was gone.</p>
+<p>And Mars is much smaller than Earth, so the same volume of water will make a deeper sea.</p>
+<p>At this point, the water fills in the <a href="http://en.wikipedia.org/wiki/Valles_Marineris">Valles Marineris</a>, creating some unusual coastlines. The map is less boring, but the terrain around the great canyons makes for some odd shapes.</p>
+<img class="illustration" title="Instead of Earth ocean, portal disgorged bobcat. Would not buy again." src="/imgs/a/54/mars_8.png">
+<p>The water now reaches and swallows up Spirit and Opportunity. Eventually, it breaks into the Hellas Impact Crater, the basin containing the lowest point on Mars.</p>
+<p>In my opinion, the rest of the map is starting to look pretty good.</p>
+<img class="illustration" title="It's not the water's fault; the Valles Marineris are weird-looking in real life." src="/imgs/a/54/mars_9.png">
+<p>As the water spreads across the surface in earnest, the map splits into several large islands (and innumerable smaller ones).</p>
+<img class="illustration" title="This looks like the map for a game where I would ignore the objectives and just sail around." src="/imgs/a/54/mars_10.png">
+<p>The water quickly finishes covering most of the high plateaus, leaving only a few islands left.</p>
+<img class="illustration" title="Zoom in. Enhance." src="/imgs/a/54/mars_11.png">
+<p>And then, at last, the flow stops; the oceans back on Earth are drained.</p>
+<p>Let's take a closer look at the main islands:</p>
+<img class="illustration" title="No rovers remain above water." src="/imgs/a/54/mars_12.png">
+<p>Olympus Mons, and a few other volcanoes, remain above water. Surprisingly, they aren't even <em>close</em> to being covered. Olympus Mons still rises well over 10 kilometers above the new sea level. Mars has some <em>huge</em> mountains.</p>
+<p>Those crazy islands are the result of water filling in 'Noctis Labyrinthus' ('the Labyrinth of the Night'), a bizarre set of canyons whose origin is still a mystery.</p>
+<p>The oceans on Mars wouldn't last. There might be some transient greenhouse warming, but in the end, Mars is just too cold. Eventually, the oceans will freeze over, become covered with dust, and gradually migrate to the permafrost at the poles.<span class="ref"><span class="refnum">[4]</span><span class="refbody">Maggie Fox, <a href="http://rense.com/general32/marsmaynothave.htm">Mars May Not Have Been Warm Or Wet</a></span></span></p>
+<p>However, it would take a long time, and until it did, Mars would be a much more interesting place.</p>
+<p>When you consider that there's a ready-made portal system to allow transit between the two planets, the consequences are inevitable:</p>
+<img class="illustration" title="Newtherlands." src="/imgs/a/54/mars_netherlands.png">
+</article>

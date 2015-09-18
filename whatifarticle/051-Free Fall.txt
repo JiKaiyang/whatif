@@ -1,0 +1,36 @@
+<article class="entry">
+  <a href="//what-if.xkcd.com/51/"><h1>Free Fall</h1></a>
+  <p id="question">What place on Earth would allow you to freefall the longest by jumping off it? What about using a squirrel suit?</p>
+<p id="attribute">—Dhash Shrivathsa</p>
+<p>The largest purely vertical drop on Earth is the face of Canada's <a href="http://en.wikipedia.org/wiki/Mount_Thor">Mount Thor</a>, which is shaped like this:</p>
+<img class="illustration" title="AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" src="/imgs/a/51/freefall_thor.png">
+<p>To make things a little less gruesome, let's suppose there's a pit at the bottom of the cliff, filled with something fluffy—like cotton candy—to safely break your fall.</p>
+<img class="illustration" title="Would this work? Stay tuned for a future article ..." src="/imgs/a/51/freefall_candy.png">
+<p>A human falling with arms and legs outstretched has a terminal velocity in the neighborhood of 55 meters per second. It takes a few hundred meters to get up to speed, so it would take you a little over 26 seconds to fall the full distance.</p>
+<p>What can you do in 26 seconds?</p>
+<p>For starters, it's enough time to get all the way through the original Super Mario World 1-1,<span class="ref"><span class="refnum">[1]</span><span class="refbody"><a href="http://www.youtube.com/watch?v=DGQGvAwqpbE">Super Mario 1-1 speed run</a></span></span> assuming you have perfect timing and take the shortcut through the pipe.</p>
+<p>It's also long enough to miss a phone call. Sprint's ring cycle—the time the phone rings before going to voicemail—is 23 seconds.<span class="ref"><span class="refnum">[2]</span><span class="refbody"><a href="http://www1.sprintpcs.com/support/HelpCenter.jsp?FOLDER%3C%3Efolder_id=1531979#4">Sprint ring cycle</a></span></span> (For those keeping score, that means Wagner's is 2,350 times longer.)</p>
+<p>If someone called your phone, and it started ringing the moment you jumped, it would go to voicemail three seconds before you reached the bottom.</p>
+<img class="illustration" title="Surprisingly good service for a desolate cliff face in Nunavut." src="/imgs/a/51/freefall_voicemail.png">
+<p>On the other hand, if you jumped off Ireland's 210-meter <a href="http://www.cliffsofmoher.ie/">Cliffs of Moher</a>, you would only be able to fall for about eight seconds—or a little more, if the updrafts were strong. That's not very long, but according to River Tam, given adequate vacuuming systems it might be enough time to drain all the blood from your body.</p>
+<p>So far, we've assumed you're falling vertically. But you don't have to.</p>
+<p>Even without any special equipment, a skilled skydiver—once they get up to full speed—can glide at almost a 45-degree angle.<span class="ref"><span class="refnum">[3]</span><span class="refbody"><a href="http://www.dropzone.com/cgi-bin/forum/gforum.cgi?post=577711#577711">Glide data</a></span></span> By gliding away from the base of the cliff, you could conceivably extend your fall substantially.</p>
+<img class="illustration" title="AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA ::gasp:: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" src="/imgs/a/51/freefall_extended.png">
+<p>It's hard to say exactly <em>how</em> far; in addition to the local terrain, it depends heavily on your choice of clothes. As a comment on a <a href="http://www.blincmagazine.com/forum/wiki/Records">BASE jumping records wiki</a> puts it,</p>
+<blockquote>
+<p>The record for longest [fall time] without a wingsuit is hard to find since the line between jeans and wingsuits has blurred since the introduction of more advanced ... apparel.</p>
+</blockquote>
+<p>Which brings us to wingsuits—the halfway point between parachute pants and parachutes.</p>
+<p>Wingsuits let you fall much more slowly. One wingsuit operator posted tracking data from a series of jumps.<span class="ref"><span class="refnum">[4]</span><span class="refbody"><a href="http://www.airspacemag.com/flight-today/Jump-Fly-Land.html">Jump. Fly. Land.</a>, <em>Air &amp; Space</em></span></span> It shows that in a glide, a wingsuit can lose altitude as slowly as 18 meters per second—a huge improvement over the normal rate.</p>
+<p>Even ignoring horizontal travel, that would stretch out our fall to over a minute. That's <a href="http://www.youtube.com/watch?v=Bzrap8Vtyq8">long enough for a chess game</a>. It's also long enough to sing the first verse of—appropriately enough—REM's <em>It's the End of the World as We Know It</em> followed by—less appropriately—the entire breakdown from the end of the Spice Girls' <em>Wannabe</em>.</p>
+<img class="illustration" title="So here's the story / from A to Z / You wanna get with me / You gotta tumble helplessly" src="/imgs/a/51/freefall_wannabe.png">
+<p>When we include horizontal glides, the times get even longer.</p>
+<p>There are a lot of mountains that could probably support very long wingsuit flights. For example, Nanga Parbat, a mountain in Pakistan, has a drop of more than three kilometers at a fairly steep angle.<span class="ref"><span class="refnum">[5]</span><span class="refbody">Prof. Dr. Herrligkoffer, <a href="http://www.alpinejournal.org.uk/Contents/Contents_1984_files/AJ%201984%2021-29%20Herrligkoffer%20NParbat.pdf">The East Pillar of Nanga Parbat</a>, <em>The Alpine Journal</em> (1984)</span></span> (Surprisingly, a wingsuit still works fine at those altitudes,<span class="ref"><span class="refnum">[6]</span><span class="refbody"><a href="http://www.abc.net.au/local/audio/2010/08/24/2991588.htm">The Guestroom - Dr Glenn Singleman and Heather Swan</a></span></span> <span class="ref"><span class="refnum">[7]</span><span class="refbody"><a href="http://www.worldrecordacademy.com/sports/highest_BASE_jump_Valery_Rozov_breaks_Guinness_world_record_213415.html">Highest BASE jump: Valery Rozov breaks Guinness world record</a></span></span> though the jumper needs oxygen and glides a little faster than normal.)</p>
+<p>So far, the record for longest wingsuit BASE jump is held by Dean Potter, who jumped from the Eiger—a mountain in Switzerland—and flew for three minutes and twenty seconds.<span class="ref"><span class="refnum">[8]</span><span class="refbody">Dean Potter, <a href="http://www.tonywingsuits.com/deanpotter.html">Above It All</a></span></span></p>
+<p>What could you do with three minutes and twenty seconds?</p>
+<p>Suppose we recruit Joey Chestnut and Takeru Kobayashi, the world's top competitive eaters.</p>
+<p>If we can find a way for them to operate wingsuits while eating at full speed, and they jumped from the Eiger, they could—in theory—finish as many as 45 hot dogs between them before reaching the ground ...
+pass</p>
+<img class="illustration" title="Given the ongoing Kobayashi/Chestnut rivalry, the potential for sabotage could, somehow, make this situation even more dangerous." src="/imgs/a/51/freefall_hotdogs.png">
+<p>... which would, if nothing else, earn them what just might be the strangest world record in history.</p>
+</article>

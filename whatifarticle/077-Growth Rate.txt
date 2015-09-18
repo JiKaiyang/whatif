@@ -1,0 +1,41 @@
+<article class="entry">
+  <a href="//what-if.xkcd.com/77/"><h1>Growth Rate</h1></a>
+  <p id="question">What height would humans reach if we kept growing through our whole development period (i.e. till late teens/early twenties) at the same pace as we do during our first month?</p>
+<p id="attribute">Maria</p>
+<p>Tall.</p>
+<p>According to the National Center for Health Statistics, the average newborn's height (length) is approximately 0.5 meters,<span class="ref"><span class="refnum">[1]</span><span class="refbody">or 0.56 meters in heels.</span></span> or a quarter of the diameter of the Death Star thermal exhaust port.</p>
+<img class="illustration" title="Babies are a little less than a quarter of a womp rat long." src="/imgs/a/77/height_deathstar.png">
+<p>From this initial height of 0.5 meters, they grow to about 1.5 or 2.0 meters:</p>
+<img class="illustration" title="The timing of male and female puberty roughly cancel out, so average height grows steadily throughout the Kidz Bop years." src="/imgs/a/77/height_chart.png">
+<p>Babies grow fastest right after they're born. During their first month, infants grow about 4.4 centimeters, ten times their growth rate during their early teenage years.</p>
+<img class="illustration" title="A chart showing a lower bound for the length of a baby-eating snake versus age of its victims." src="/imgs/a/77/height_zoom.png">
+<p>In Maria's scenario, this growth rate continues until about age 20:</p>
+<img class="illustration" title="We're going to need a longer snake." src="/imgs/a/77/height_extrap.png">
+<p>Let's follow that child's growth over the years.</p>
+<p>By its first birthday, the baby would be a meter long:</p>
+<img class="illustration" title="Go get another one-gallon bottle." src="/imgs/a/77/height_1.png">
+<p>At 2 years and 3 months, the kid would reach 169 centimeters (5'7"), the average adult height in the US.</p>
+<img class="illustration" title="Blends right in!" src="/imgs/a/77/height_2.png">
+<p>By age 3, we'd have a 2.08 meter (6'10") toddler, taller than Darth Vader ...</p>
+<img class="illustration" title="I find the bug you found disturbing." src="/imgs/a/77/height_3.png">
+<p>... and much taller than Yoda:</p>
+<img class="illustration" title="MMmmmm. An excellent bug this is!" src="/imgs/a/77/height_yoda.png">
+<p>By age 4, the child would be nearly nine feet tall, able to dunk a basketball without jumping.<span class="ref"><span class="refnum">[2]</span><span class="refbody">A 7'8" Harlem Globetrotters player <a href="http://www.youtube.com/watch?v=HTnC0RBXwws">can <em>almost</em> dunk without jumping</a>, so the threshold for a clear no-jump dunk is probably around 8 feet.</span></span></p>
+<img class="illustration" title="But what I really want to do is play professional baseball." src="/imgs/a/77/height_4.png">
+<p>A few months later, the kid would surpass <a href="https://en.wikipedia.org/wiki/Robert_Wadlow">Robert Wadlow</a> to become the tallest human in history.</p>
+<p>At age 5, the child would be $ \pi $ meters tall (10'4"):</p>
+<img class="illustration" title="I mean, 0.5 tau meters." src="/imgs/a/77/height_5.png">
+<p>At age 7, the child would be 4.2 meters tall, able to stare down a T-rex:</p>
+<img class="illustration" title="*purrrrr*" src="/imgs/a/77/height_7.png">
+<p>By age 10, the child would be 5.8 meters tall (19 feet). If we assume these giants are proportioned like adult humans, this kid would weigh over a metric ton.</p>
+<img class="illustration" title="Still only about 0.2 tyrannosaurs." src="/imgs/a/77/height_10.png">
+<p>Actual humans wouldn't be able to grow to such heights. Thanks to <a href="https://en.wikipedia.org/wiki/Square-cube_law">the square-cube law</a>, our bones would be too thin to support our weight and our hearts would be unable to pump blood around our bodies. Even breathing would be difficult; we might be able to position ourselves to keep our airways opened, but to breathe in a lungful of air would require very high airflow rates; we'd experience tornado winds all the way down our airways.</p>
+<p>Our giant would reach a final height of between 10 and 12 meters, assuming growth tapered off around age 20. At that height, they'd be able to comfortably dunk a basketball while keeping one hand on the court outside the three-point line.<span class="ref"><span class="refnum">[3]</span><span class="refbody">A creative NBA 2K3 mod shows us <a href="http://www.youtube.com/watch?v=vGt10eu4XB8">what that player might look like</a>.</span></span></p>
+<img class="illustration" title="What do you mean 'against the rules'? Your team has a freakin' golden retriever!" src="/imgs/a/77/height_dunk.png">
+<p>In addition to the insurmountable health problems, someone with this rapid growth rate would face another hardship.</p>
+<p>To ride roller coasters, you have to be above a certain minimum height. However, they generally also have a <em>maximum</em> height.</p>
+<img class="illustration" title="You must have a core temperature between 33°C and 41°C to ride." src="/imgs/a/77/height_coaster.png">
+<p><em>Bizarro</em>, a coaster at Six Flags New England, has a minimum height of 137 cm (4'6") and a maximum height of 193 cm (6'4"). Our child would be tall enough to ride <em>Bizarro</em> at age 2 ... and too tall by age 3. Their coaster-riding window would last only 387 days.</p>
+<p>It's a sad truth: Roller coasters just aren't for everyone.</p>
+<img class="illustration" title="That night, the roller coaster's empty cars are all mysteriously lifted from their tracks and smashed to the ground." src="/imgs/a/77/height_sad.png">
+</article>

@@ -1,0 +1,24 @@
+<article class="entry">
+  <a href="//what-if.xkcd.com/82/"><h1>Hitting a comet</h1></a>
+  <p id="question">Astrophysicists are always saying things like "This mission to this comet is equivalent to throwing a baseball from New York and hitting a particular window in San Francisco." Are they really equivalent?</p>
+<p id="attribute">Tom Foster</p>
+<p>No; the baseball thing is much harder.</p>
+<img class="illustration" title="How are you even supposed to throw this thing?" src="/imgs/a/82/rosetta_baseball.png">
+<p>To throw something from New York to LA, you have to lob it out of the atmosphere like an ICBM.<span class="ref"><span class="refnum">[1]</span><span class="refbody">Launched by New York at LA, as I'm sure happens now and then.</span></span></p>
+<p>Unfortunately, baseballs are too small to punch through the atmosphere. No matter <a href="http://what-if.xkcd.com/1/">how fast</a> they're going, they'll wind up stopping before they make it to space. If you wanted to hit a window in LA with a baseball, you'd have better luck throwing it at a plane and hoping it gets lodged in the landing gear during takeoff.</p>
+<p>The comet-visiting spacecraft Tom's astrophysicists are referring to is probably <a href="http://www.esa.int/Our_Activities/Space_Science/Rosetta">Rosetta</a>, which is about to orbit the comet 67P/Churyumov–Gerasimenko and send a lander down to its surface.</p>
+<p>Note: 67P/Churyumov–Gerasimenko is a mouthful, so for the rest of this article I'm just going to call the comet "Kevin".</p>
+<p>Rosetta is currently about to arrive at Kevin, and is about 780 million kilometers from Earth. It's taken a roundabout route:</p>
+<img class="illustration" title="Rosetta got gravitational assists from several flybys of Earth and one of Mars, flew past two asteroids, and—in a maneuver that still has some at ESA confused—became the first spacecraft to do a flyby of itself." src="/imgs/a/82/rosetta_route.png">
+<p>Kevin, Rosetta's target, is about 4 km wide. Since it's 780 million kilometers away. If it were as far away as San Francisco is from New York, the target would be two centimeters wide—even more impressive than the statistic Tom quoted.</p>
+<p>So Rosetta hitting its target is like throwing an object from New York and having it hit a particular key<span class="ref"><span class="refnum">[2]</span><span class="refbody">Tilde, if you're curious.</span></span> on a keyboard in San Francisco.</p>
+<img class="illustration" title="I TOLD you to aim for SAVE!" src="/imgs/a/82/rosetta_send.png">
+<p>It's not a fair comparison, but you gotta admit, it sounds pretty precise. I once heard an account from someone who worked on the Cassini-Huygens mission, where one of the designers pointed out that their spacecraft traveled to a target a billion kilometers away, and arrived within something like a second and a half of the scheduled time.<span class="ref"><span class="refnum">[3]</span><span class="refbody">Despite searching, I've been unable to track down this interview. If you see it, let me know!</span></span></p>
+<p>On the other hand, we could make less flattering comparisons.</p>
+<p>Take remote surgery. If a surgeon in New York uses a remote surgery robot in San Francisco to do eye surgery, and the robot aims for the patient's eye with the precision of Rosetta's approach, it will point its laser somewhere around here:</p>
+<img class="illustration" title="At least it'll help clear my sinuses." src="/imgs/a/82/rosetta_eye.png">
+<p>However this isn't a fair comparison either. Both Rosetta and our laser surgeon<span class="ref"><span class="refnum">[4]</span><span class="refbody">I really hope that's what this job is called</span></span> will refine their movements as they make their final approaches, achieving very high precision.</p>
+<p>When it comes down to it, the two tasks—remote surgery and remote probe-landing—are probably about equally precise, in a distance sense.</p>
+<p>Which brings me to something a little different with which I'd like to end this article: A question for <em>you</em> to try to answer. Namely:</p><blockquote>Would you rather bet a million dollars on a spacecraft landing engineer's ability to successfully perform eye surgery, or an eye surgeon's ability to land a probe on a comet?</blockquote>I haven't been able to decide.
+<img class="illustration" title="But don't worry; that's a rare complication, only happening in one in every 20 or 30 procedures." src="/imgs/a/82/rosetta_surgery.png">
+</article>

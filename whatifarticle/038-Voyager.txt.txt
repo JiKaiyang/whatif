@@ -1,0 +1,89 @@
+<article class="entry">
+  <a href="//what-if.xkcd.com/38/"><h1>Voyager</h1></a>
+  <p id="question">With today's technology, would it be possible to launch an unmanned mission to retrieve Voyager I?</p>
+<p id="attribute">—Elliott Bennett</p>
+<p><em>Voyager I</em> is farther from Earth than any other manmade object. After
+getting a pair of gravitational kicks from Jupiter and Saturn, it’s
+headed out of the Solar System at a pretty high speed, and nothing else
+we’ve built is on track to pass it.</p>
+<p>Strangely, as of the day I’m writing this, <em>Voyager</em> is actually
+<a href="http://voyager.jpl.nasa.gov/where/">getting closer</a> to
+us, because Earth is in a part of its orbit where it’s approaching
+<em>Voyager</em> faster than <em>Voyager</em> is fleeing. But in a few months, we’ll
+swing around the Sun and <em>Voyager</em> will again be getting farther away.</p>
+<img class="illustration" title="Earth is faster than Voyager but only goes in circles." src="/imgs/a/38/voyager_earth.png">
+<p>It has a 35-year head start, so it would be hard to catch. But catching
+up isn’t the problem.</p>
+<p><em>New Horizons</em>, the spacecraft currently headed out of the Solar System
+by way of Pluto, is never going to catch up to <em>Voyager</em>—it’s not moving
+fast enough and it’s headed in the wrong direction<em>.</em> But it could have.</p>
+<p>The reason <em>Voyager</em> is moving so fast is that it got gravitational
+assists from Jupiter and Saturn, while <em>New Horizons</em> only got one from
+Jupiter.</p>
+<img class="illustration" title="Voyager gets a boost from Jupiter and a ball gets a boost from a truck." src="/imgs/a/38/voyager_assist.png">
+<p><em>Gravity assists aren’t paradoxical magic. It’s just like bouncing a
+tennis ball off a passing truck. Gyroscopes, on the other hand, ARE
+magic.</em></p>
+<p>If <em>New Horizons</em> had ditched the Pluto objective and waited for the
+right planetary alignment (the 2030s look promising), it could have
+swung by Jupiter and Saturn, then caught up to <em>Voyager</em> in as little as
+a century or two! (Assuming we could manage to hit Voyager from that far
+away. But I bet we could; our rocket scientists are pretty good at
+rocket science.)</p>
+<p>Of course, getting there’s the easy part. The hard part is getting back.</p>
+<p><em>Voyager</em> weighs a little less than a ton and is moving away at 17
+kilometers per second (if it were in the atmosphere, that would be Mach
+50). And since it’s out in interstellar space, there are no speeding
+Jupiters to grab on to. Stopping <em>Voyager</em> is going to take a <em>lot</em> of
+fuel.</p>
+<p>It’s what engineers call the <a href="http://www.nasa.gov/mission_pages/station/expeditions/expedition30/tryanny.html">tyranny of the rocket
+equation</a>:
+As the amount that you want to change your speed (“delta-v”) goes up,
+the fuel required increases exponentially. The equation tells us that to
+turn the 720-kilogram <em>Voyager</em> around, we’re going to need at least
+30<em> tons</em> of fuel.</p>
+<p>But to get <em>that</em> fuel out there, we need even <em>more</em> fuel. And to get
+<em>that</em> fuel, we need even <em>more</em> fuel. (This is where the tyrannical
+rocket equation gets its exponential term.) In fact, to rescue Voyager,
+we’d have to launch a fleet of—at minimum—60 <em>New Horizons</em>-sized
+spacecraft loaded with nothing but fuel.</p>
+<p>Could we do it? Sure. There are a couple plausible ways. Instead of
+building five to ten dozen fuel-laden Titan IIIEs, we could just build a
+fleet of ten or fifteen Saturn Vs, and do the whole thing with fewer
+launches. But however we did it, it would be a massive and expensive
+operation similar in scale to the Apollo program.</p>
+<p>The difference between the launch vehicle we’d used to get Voyager out
+of the Solar System and the fleet we’d need for a round trip is
+striking:</p>
+<img class="illustration" title="there and there and back again" src="/imgs/a/38/voyager_comparison.png">
+<p>Fortunately, there’s one way around the tyranny of the rocket equation:
+Ditch the rockets.</p>
+<p>Ion engines—which use electric fields to accelerate exhaust gas to high
+speeds—are far more efficient than chemical rockets, and they make
+accelerating to high speeds much more plausible.</p>
+<p>The reason we’re not using them for everything is that they produce very
+little thrust, so it takes a long time to get up to speed. It’s like if
+you had a car that gets amazing mileage but has a one-horsepower engine.
+(Actually, are you sure that’s not just a horse?) Ion engines are great;
+the current ones just take forever to get you moving.</p>
+<p>But since catching <em>Voyager</em> is going to take a long time anyway, ion
+engines are fine. We could launch a probe (like <a href="http://trs-new.jpl.nasa.gov/dspace/bitstream/2014/13644/1/00-0010.pdf">this
+one</a>),
+send it out to <em>Voyager</em>, latch on, turn everything around, and let it
+spend a few decades slowing <em>Voyager</em> down.</p>
+<p>Once Voyager had lost nearly all its speed, the Sun’s gravity would take
+over, and the probe would begin a long slow slide toward the inner Solar
+System. This would take about 200 years, and with some extremely careful
+nudges, we could make sure it falls in an Earth-crossing orbit.</p>
+<p>Two centuries later, <em>Voyager</em> would reach Earth and, with no way to
+slow down, burn up in our atmosphere, because we didn’t think to send
+out an aerobraking shell with the rescue craft. So that was a waste of a
+few centuries of work and billions upon billions of dollars.</p>
+<img class="illustration" title="A returning Voyager becomes a very expensive firework." src="/imgs/a/38/voyager_burn_up.png">
+<p>Maybe a better idea would be to borrow a salvage vessel and set sail for
+the coast of New South Wales, Australia. There, in the waters off Jervis
+Bay, the Australian Royal Navy ship <em>Voyager</em> sank in 1964 after an
+accidental collision.</p>
+<p>That one’s probably easier to retrieve.</p>
+<img class="illustration" title="NASA goes sailing" src="/imgs/a/38/voyager_salvage.png">
+</article>

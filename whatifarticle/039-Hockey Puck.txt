@@ -1,0 +1,54 @@
+<article class="entry">
+  <a href="//what-if.xkcd.com/39/"><h1>Hockey Puck</h1></a>
+  <p id="question">How hard would a puck have to be shot to be able to knock the goalie himself backwards into the net?</p>
+<p id="attribute">—Tom</p>
+<p>This can’t really happen.</p>
+<p>It’s not just a problem of hitting it hard enough. This blog <a href="http://what-if.xkcd.com/1/">isn’t
+concerned</a> with that kind of limitation.
+Humans with sticks can’t make a puck go much faster than <a href="http://sports.yahoo.com/blogs/nhl-puck-daddy/khl-alexander-ryazantsev-sets-world-record-hardest-shot-174131642.html">about 50
+meters per
+second</a>,
+so we’ll assume this puck is launched by a <a href="http://hockeyrobotics.com/">hockey
+robot</a> or an <a href="http://www.psfc.mit.edu/~radovinsky/papers/32.pdf">electric
+sled</a> or a
+<a href="http://www.nasa.gov/centers/wstf/laboratories/hypervelocity/gasguns.html">hypersonic light gas
+gun</a>.</p>
+<p>The problem, in a nutshell, is that hockey players are heavy and pucks are not. A goalie in full gear outweighs a puck by a factor of about 600. Even the fastest slap shot has less momentum than a ten-year-old skating along at a mile per hour.</p>
+<p>Hockey players also can brace pretty hard against the ice. A player
+skating at full speed can stop in the space of a few meters, which means
+the force they’re exerting on the ice is pretty substantial. (It also
+suggests that if you started to slowly tilt a hockey rink, it could get
+up to 50 degrees before the players would all slide to one end. Clearly,
+experiments are needed to confirm this.)</p>
+<p>From estimates of collision speeds in <a href="http://www.youtube.com/watch?v=fWj6--Cf9QA">hockey
+videos</a>, and some guidance
+from a hockey player friend, I estimated that the 165-gram puck would
+have to be moving somewhere between Mach 2 and Mach 8 to knock the
+goalie backward into the goal—faster if the goalie is bracing against
+the hit, and slower if the puck hits at an upward angle.</p>
+<p>Firing an object at Mach 8 is not, in itself, very hard. One of the best
+methods for doing so is the aforementioned <a href="http://www.nasa.gov/centers/wstf/laboratories/hypervelocity/gasguns.html">hypersonic gas
+gun</a>,
+which is—at its core—the same mechanism a BB gun uses to fire BBs.</p>
+<img class="illustration" title="and world peace, which i recognize my first request makes significantly less likely" src="/imgs/a/39/goalie_bb_gun.png">
+<p>But a hockey puck moving at Mach 8 will have a lot of problems. It’s not
+on the same scale as a relativistic baseball, but the air ahead of the
+puck would be compressed and heated very rapidly. It wouldn’t be going
+fast enough to ionize the air and leave a glowing trail like a meteor,
+but the surface of the puck would (given enough time) start to melt or
+char.</p>
+<p>The air resistance, however, will slow the puck down very quickly, so a
+puck going at Mach 8 when it leaves the launcher might be going a
+fraction of that when it arrives at the goal. And even at Mach 8, the
+puck probably wouldn’t pass through the goalie’s body. Instead, it would
+burst apart on impact with the power of a large firecracker or small
+stick of dynamite.</p>
+<p>If you’re like me, when you first saw this question, you might’ve
+imagined the puck leaving a cartoon-style hockey-puck-shaped hole. But
+that’s because our intuitions are shaky about how materials react at
+very high speeds.</p>
+<p>Instead, a different mental picture might be more accurate: Imagine
+throwing a ripe tomato—as hard as you can—at a cake.</p>
+<img class="illustration" title="...goal?" src="/imgs/a/39/goalie_cake.png">
+<p>That’s about what would happen.</p>
+</article>

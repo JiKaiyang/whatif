@@ -1,0 +1,28 @@
+<article class="entry">
+  <a href="//what-if.xkcd.com/72/"><h1>Loneliest Human</h1></a>
+  <p id="question">What is the furthest one human being has ever been from every other living person? Were they lonely?</p>
+<p id="attribute">Bryan J. McCarter</p>
+<p>It's hard to know for sure!</p>
+<p>The most likely suspects are the six Apollo command module pilots who stayed in lunar orbit during a Moon landing: Mike Collins, Dick Gordon, Stu Roosa, Al Worden, Ken Mattingly, and Ron Evans.</p>
+<p>Each of these astronauts stayed alone in the command module while two other astronauts landed on the Moon. At the highest point in their orbit, they were about 3,585 kilometers from their fellow astronauts.</p>
+<img class="illustration" title="From another point of view, this was the farthest the rest of humanity has ever managed to get from those jerk astronauts." src="/imgs/a/72/lonely_apollo.png">
+<p>You'd think astronauts would have a lock on this category, but it's not so cut-and-dry. There are a few other candidates who come pretty close!</p>
+<h1>Polynesians</h1>
+<p>It's hard to get 3,585 kilometers<span class="ref"><span class="refnum">[1]</span><span class="refbody">Because of the curve of the Earth, you actually have to go 3,619 kilometers across the surface to qualify.</span></span> from a permanently inhabited place. The Polynesians, who were the first humans to spread across the Pacific, might have managed it, but this would have required a lone sailor to travel awfully far ahead of everyone else. It may have happened—perhaps by accident, when someone was carried far from their group by a storm—but we're unlikely to ever know for sure.</p>
+<p>Once the Pacific was colonized, it got a lot harder to find regions of the Earth's surface where someone could achieve 3,585 kilometer isolation. Now that the Antarctic continent has a permanent population of researchers, it's almost certainly impossible.</p>
+<h1>Antarctic explorers</h1>
+<p>During the period of Antarctic exploration, a few people have come close to beating the astronauts, and it's possible one of them actually holds the record. One person who came very close was Robert Scott.</p>
+<p>Robert Falcon Scott was a British explorer who met a tragic end. Scott's expedition reached the South Pole in 1911, only to discover that Norwegian explorer Roald Amundsen had beaten him there by several months. The dejected Scott and his companions began their trek back to the coast, but they all died while crossing the Ross Ice Shelf.</p>
+<p>The last surviving expedition member would have been, briefly, one of the most isolated people on Earth.<span class="ref"><span class="refnum">[2]</span><span class="refbody">Amundsen's expedition had left the continent by then.</span></span> However, he (whoever he was) was still within 3,585 kilometers of a number of humans, including some other Antarctic explorer outposts as well as the Māori on Rakiura (Stewart Island) in New Zealand.</p>
+<p>There are plenty of other candidates. Pierre François Péron, a French sailor, says he was marooned on Île Amsterdam in the southern Indian Ocean. If so, he came close to beating the astronauts, but he wasn't quite far enough from Mauritius, southwestern Australia, or the edge of Madagascar to qualify.</p>
+<p>We'll probably never know for sure. It's possible that some shipwrecked 18th-century sailor drifting in a lifeboat in the Southern Ocean holds the title of most isolated human. However, until some clear piece of historic evidence pops up, I think the six Apollo astronauts have a pretty good claim.</p>
+<p>Which brings us to the second part of Bryan's question: Were they lonely?</p>
+<h1>Loneliness</h1>
+<p>After returning to Earth, Apollo 11 command module pilot Mike Collins said he did not feel at all lonely. He wrote about the experience in his book <em>Carrying the Fire: An Astronaut's Journeys</em>:</p>
+<blockquote>Far from feeling lonely or abandoned, I feel very much a part of what is taking place on the lunar surface ... I don't mean to deny a feeling of solitude. It is there, reinforced by the fact that radio contact with the Earth abruptly cuts off at the instant I disappear behind the moon.</blockquote>
+<blockquote>I am alone now, truly alone, and absolutely isolated from any known life. I am it. If a count were taken, the score would be three billion plus two over on the other side of the moon, and one plus God knows what on this side.</blockquote>
+<p>Al Worden, the Apollo 15 command module pilot, even enjoyed the experience:<span class="ref"><span class="refnum">[3]</span><span class="refbody">BBC Future <a href="http://www.bbc.com/future/story/20130401-the-loneliest-human-being/1">interview with Al Wolden</a> (April 2, 2013)</span></span></p>
+<blockquote>There's a thing about being alone and there's a thing about being lonely, and they're two different things. I was alone but I was not lonely. My background was as a fighter pilot in the air force, then as a test pilot–and that was mostly in fighter airplanes–so I was very used to being by myself. I thoroughly enjoyed it. I didn't have to talk to Dave and Jim any more ... On the backside of the Moon, I didn't even have to talk to Houston and that was the best part of the flight.</blockquote>
+<p>Introverts understand; the loneliest human in history was just happy to have a few minutes of peace and quiet.</p>
+<img class="illustration" title="" src="/imgs/a/72/lonely_finally.png">
+</article>

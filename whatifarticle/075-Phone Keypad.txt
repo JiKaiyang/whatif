@@ -1,0 +1,33 @@
+<article class="entry">
+  <a href="//what-if.xkcd.com/75/"><h1>Phone Keypad</h1></a>
+  <p id="question">I use one of those old phones where you type with numbers—for example, to type "Y", you press 9 three times. Some words have consecutive letters on the same number. When they do, you have to pause between letters, making those words annoying to type. What English word has the most consecutive letters on the same key?</p>
+<p id="attribute">Stewart Bishop</p>
+<p>We can answer that question with the following headache-inducing shell command, which finds all words in a given list which use the same key a bunch of times in a row:</p>
+<p><span style="font-family : Courier;">cat wordlist.txt | perl -pe 's/^(.*)\$/\L\$&amp; \U\$&amp;/g' | tr 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' '2223334445556667777888999' | grep -P "(.)\1\1\1\1\1"</span></p>
+<p>The winner, according to this script, is <strong>nonmonogamous</strong>, which requires you to type seven consecutive letters (<strong>nonmono</strong>) with the "6" key.<span class="ref"><span class="refnum">[1]</span><span class="refbody">It's actually tied with <strong>nonmonotonic</strong>. These no doubt both lose to more obscure words which weren't in the wordlists I used.</span></span></p>
+<p><strong>Phone Keyboard Sentences</strong></p>
+<p>It's rare for a word to have <em>all</em> its letters on the same key; the longest common ones are only a few letters.<span class="ref"><span class="refnum">[2]</span><span class="refbody">Like "<strong>tutu</strong>".</span></span> Nevertheless, using only these words, we can write <strong>a high def MMO on TV</strong>, a phrase whose words use only one number key each.</p>
+<img class="illustration" title="Just one more hour." src="/imgs/a/75/t9_mmo.png">
+<p>There are plenty of other phrases like this, although some of them are a bit of a stretch:</p>
+<img class="illustration" title="Pony up!" src="/imgs/a/75/t9_mom.png">
+<p>Typing issues like this aren't limited to old phone keyboards. For any text input system, you can find phrases which are weird to type.</p>
+<p><strong>QWERTY Keyboards</strong></p>
+<p>It's a well-known piece of trivia among word geeks that "stewardesses" is the longest common word you can type on a QWERTY keyboard using only the left hand.</p>
+<p>In fact, it's possible to write entire sentences with just the left hand. For example, try typing the words <strong>We reserved seats at a secret Starcraft fest</strong>. Weird, huh?</p>
+<p>Let's take a look at a few more sentences—written with the help of some even messier shell commands and Python scripts<span class="ref"><span class="refnum">[3]</span><span class="refbody">I constructed these sentences by searching text logs for sentence fragments that fit a particular constraint, then randomly connecting those groups together using a technique called <em>Markov chaining</em>. You can see the code I used <a href="http://xkcd.com/markov.py.txt">here</a>.</span></span>—which follow various constraints:</p>
+<p><strong>Left hand only</strong></p>
+<img class="illustration" title="Totally worth it." src="/imgs/a/75/t9_arrested.png">
+<img class="illustration" title="MEET SINGLE FERRETS IN YOUR AREA TONIGHT" src="/imgs/a/75/t9_ferret.png">
+<p><strong>Right hand only</strong></p>
+<img class="illustration" title="How DARE you." src="/imgs/a/75/t9_honolulu.png">
+<img class="illustration" title="OMG puppy milk!" src="/imgs/a/75/t9_milk.png">
+<p><strong>Home row only</strong></p>
+<img class="illustration" title="He looked at the contents and immediately fell dead." src="/imgs/a/75/t9_galahad.png">
+<img class="illustration" title="She's nice, though!" src="/imgs/a/75/t9_sasha.png">
+<img class="illustration" title="Crisp, though." src="/imgs/a/75/t9_salad.png">
+<p><strong>Top row only</strong></p>
+<img class="illustration" title="Also, we brought some milk!" src="/imgs/a/75/t9_puppy.png">
+<img class="illustration" title="The worst part is it actually IS really good." src="/imgs/a/75/t9_poetry.png">
+<p>And lastly, if anyone wants to know why you're not more active on social media, you only need the top row to explain that you're ...</p>
+<img class="illustration" title="Or too pretty to retweet." src="/imgs/a/75/t9_tweet.png">
+</article>

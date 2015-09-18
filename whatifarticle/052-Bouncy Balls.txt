@@ -1,0 +1,20 @@
+<article class="entry">
+  <a href="//what-if.xkcd.com/52/"><h1>Bouncy Balls</h1></a>
+  <p id="question">What if one were to drop 3,000 bouncy balls from a seven story parking structure onto a person walking on the sidewalk below? Should the person survive, what would be the number of bouncy balls needed to kill them? What injuries would occur and what would the associated crimes be?</p>
+<p id="attribute">—Ginger Bread</p>
+<p>After falling from seven stories, the mass of bouncy balls would be moving at about 20 meters per second.</p>
+<p>20 meters per second is about how fast an average person with a good arm could throw a bouncy ball. Therefore, to determine the result of an impact, we can make use of what Einstein called a <em>gedankenexperiment</em>, or "thought experiment":</p>
+<img class="illustration" title="Careful calculations show that most of the motion of the target's head is due to flinching, not the momentum of the ball. Further calculations show that BONK." src="/imgs/a/52/bouncy_thought1.png">
+<p>In science, it's important that results be repeatable, so let's try that again:</p>
+<img class="illustration" title="The name 'Super Bowl' was originally a joking pun on 'super ball'." src="/imgs/a/52/bouncy_thought2.png">
+<p>The tricky thing about this scenario is that 3,000 one-inch bouncy balls is not as many as you probably think—it'd be enough to fill a large bucket.</p>
+<p>This bucket would weigh about as much as a small child, which leads us to another <em>gedankenexperiment</em>:</p>
+<img class="illustration" title="I want a poooonnnnnnyyyyyyy[WHAM]" src="/imgs/a/52/bouncy_child.png">
+<p>Of course, in reality, the average person can't throw a small child as fast as they can throw a bouncy ball.<sup>[<em><a href="http://en.wikipedia.org/wiki/Cetacean">citation needed</a></em>]</sup> Furthermore, they won't all fall in one clump. If you poured the balls from a container, they would bounce around and spread out as they fell, and most of them would probably miss the target.</p>
+<p>This effect was demonstrated in an experiment by Utah State University students, who <a href="http://www.youtube.com/watch?v=fd7D1LWzWmo">poured 20,000 bouncy balls from a helicopter</a> as part of their Geek Week. The balls fell as a cloud, rather than a single mass.</p>
+<p>If you wanted to be sure of killing someone, you'd need a lot more balls. 3,000,000 of them—enough to fill a large room—would be be enough to guarantee that the target would either be crushed to death by the impact or buried too deep to dig themselves out.</p>
+<p>To your last question, if someone just happened to walk underneath when you dropped the bouncy balls, and they were killed by the impact, you'd most likely be guilty of some form of manslaughter.</p>
+<p>However, by asking this question, you've shown your intent to cause harm to the victim, demonstrating clear <em>malice aforethought</em>. By writing in to this blog, you've probably upgraded your charge to murder.</p>
+<p>All in all, you should probably stick to <em>gedankenexperiments</em>.</p>
+<img class="illustration" title="STOP IT OW SCIENCE IS STUPID" src="/imgs/a/52/bouncy_thought4.png">
+</article>
