@@ -6,7 +6,7 @@
 *.log
 *.tex
 *.out
-whatifarticle/*.txt
+#whatifarticle/*.txt
 whatifarticle/*.aux
 #whatifarticle/*.pdf
 whatifarticle/*.out
