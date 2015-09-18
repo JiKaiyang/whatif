@@ -3,4 +3,11 @@
 *~
 *kate-swp
 *aux
-*log
+*.log
+*.tex
+*.out
+whatifarticle/*.txt
+whatifarticle/*.aux
+whatifarticle/*.pdf
+whatifarticle/*.out
+whatifarticle/*.toc
